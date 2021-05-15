@@ -22,7 +22,7 @@ main {
   align-items: center;
   /*align-content: space-between;*/
   flex-grow: 1;
-  align-self: ;
+  align-self: flex-end;
 }
 
 .item {
